@@ -1,1 +1,1 @@
-# JS
+değişiklikleri çekemiyorum bu nasıl iş

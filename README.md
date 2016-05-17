@@ -1,1 +1,1 @@
-değişiklikleri çekemiyorum bu nasıl iş
+check in test

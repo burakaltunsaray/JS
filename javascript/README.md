@@ -1,2 +1,3 @@
 /*20160517 BURAK ALTUNSARAY */
+
 Entegre javascript tesisleri gururla sunar...
